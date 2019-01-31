@@ -1,0 +1,2061 @@
+@media screen and (max-width: 1600px) {
+    #productlist  .nav{
+        width: 1200px;
+    }
+    .head .head-con{
+        width:95%;
+    }
+    .home .section3 .content_wrap{
+        width:1200px;
+    }
+    .index-section img{
+        width: 401px;
+    }
+    .home .section4 .content_wrap{
+        width:1200px;
+    }
+    .home .section4 .content_wrap .font_wrap{
+        padding-top: 22%;
+    }
+    .home .section4 .content_wrap .img{
+           height: 694px;
+    }
+    .home .section4 .content_wrap .img img{
+        right:-10%;
+        width: 126%;
+    }
+    .home .section4 .content_wrap .font_wrap .p4 {
+        padding-top: 43px;
+    }
+    .home .section4 .content_wrap .font_wrap .img03 {
+
+        padding-top: 11%;
+    }
+    .home .section5 .content_wrap{
+        width: 1200px;
+    }
+    .home .section6 .content_wrap{
+        width: 1200px;
+    }
+    #footer .contentmune{
+        width: 1200px;
+    }
+    
+    #footer  .copyrightInner{
+        width: 1200px;
+    }
+    
+
+    #Videos .section2_inner{
+        width: 1200px;
+    }
+    
+    
+
+
+    #app  .section2 .nav{
+        width:1200px;
+    }
+    #CompanyIntroduction .section2_inner{
+        width: 1200px;
+    }
+    
+    #CompanyIntroduction .section3_inner{
+        width: 1200px;
+    }
+    #CompanyIntroduction .section4_inner{
+        width:1200px;
+    }
+    #ContactUs .section2_inner{
+        width: 1200px;
+    }
+    #ContactUs .section3_inner{
+        width:1200px;
+    }
+    #ContactUs .section4_inner{
+        width:1200px;
+    }
+    
+    
+    #Cooperation  .nav{
+        width: 1200px;
+    }
+    
+    #loT  .nav{
+        width: 1200px;
+    }
+    #app  .section2 .nav{
+        width: 1200px;
+    }
+    #solution .section2 .nav{
+        width: 1200px;
+    }
+    #distributor  .nav{
+        width: 1200px;
+    }
+    #oversea  .nav{
+        width: 1200px;
+    }
+    #distribution .section2_inner{
+        width: 1200px;
+    }
+    #UserMD .section2_inner{
+        width: 1200px;
+    }
+    #LightingControl .section2_inner{
+        width: 1200px;
+    }
+    #ContactUs_ser .section2_inner{
+        width: 1200px;
+    }
+    #ContactUs_ser .nav{
+        width:1200px;
+    }
+    #productdetail .section1 .lunbo_wrap{
+        width: 1200px;
+    }
+    #distribution .section1 .contentinner{
+        width: 1200px;
+    }
+    
+    #distributor .section1 .contentinner{
+        width: 1200px;
+    }
+    #Cooperation .section1 .contentinner{
+        width: 1200px;
+    }
+    #loT .section1 .contentinner{
+        width: 1200px;
+    }
+
+    #oversea .section1 .contentinner{
+        width: 1200px;
+    }
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1280px) {
+    
+    #distributor .content .eleinner .readMore{
+        left: 25px;
+    }
+    .head .head-con{
+        width:95%;
+    }
+/*    .head .head-nav li {
+        float: left;
+        padding: 0 12px;
+    }*/
+    .home .section3 .content_wrap{
+        width: 960px;
+    }
+    .index-section img{
+        width: 351px;
+    }
+    .home .section4 .content_wrap{
+        width: 960px;
+    }
+    .home .section4 .content_wrap .font_wrap .img03 .pic01 {
+        padding-right: 15px;
+       
+    }
+    .home .section4 .content_wrap .font_wrap .img03 .pic01 img{
+        width:78px;
+    }
+    .home .section4 .content_wrap .img {
+        height: 583px;
+    }
+    .home .section5 .content_wrap {
+        width: 960px;
+    }
+    .home .section6 .content_wrap {
+        width: 960px;
+    }
+    .home .section6 .content_wrap {
+        
+        height: 607px;
+    }
+    .home .section6 .content_wrap .list_wrap {
+        padding-top: 136px;
+        padding-right: 96px;
+    }
+    #footer .contentmune {
+        width: 960px;
+    }
+    #footer  .copyrightInner{
+        width:960px;
+    }
+    #app .section2 .nav {
+        width: 960px;
+    }
+    #app .sec_inner2 {
+        width: 960px;
+    }
+    #app .sec_inner2 .main_left .ele {
+        padding-bottom: 27px;
+    }
+    #app .inner3{
+        width:960px;
+    }
+    #app .section3 {
+        height: 737px;
+    }
+    #app .sec_inner6 .content_wrap{
+        width:960px;
+    }
+    #app .sec_inner7 .content_wrap{
+        width:960px;
+    }
+    #app .section8  .content{
+        width:960px;
+    }
+    #app .sec_inner4 .content_wrap{
+        width:960px;
+    }
+    #app .sec_inner4 .content_wrap {
+        padding-bottom: 31px;
+    }
+    
+
+    #Videos .section2_inner{
+        width: 960px;
+    }
+    #CompanyIntroduction .section2_inner{
+        width: 960px;
+    }
+    #CompanyIntroduction .section3_inner{
+        width: 960px;
+    }
+    #CompanyIntroduction .section3_inner #timeline{
+        width: 100%;
+    }
+    #CompanyIntroduction .section3_inner #issues li img{
+        width: 960px;
+    }
+    #CompanyIntroduction .section4_inner{
+        width:960px;
+    }
+    
+    #CompanyIntroduction .section4_inner .content  .pOrImg{
+        width:95%;
+    }
+    #CompanyIntroduction .section4_inner .pOrImg .pi{
+        width: 50%;
+    }  
+    #CompanyIntroduction .section4_inner .readMor{
+        width: 95%;
+    }
+     #ContactUs .section2_inner{
+        width: 960px;
+    }
+    #ContactUs .section2_inner .content  .pOrImg{
+        width: 100%;
+    }
+    #ContactUs .section3_inner{
+        width: 960px;
+    }
+    #ContactUs .section3_inner .content  .pOrImg{
+        width: 95%;
+    }
+    #ContactUs .section4_inner{
+        width:960px;
+    }
+    #ContactUs .section4_inner .content  .pOrImg{
+        width: 90%;
+    }
+    #ContactUs .section4_inner .readMor{
+        width: 100%;
+    }
+    
+    #Cooperation  .nav{
+        width:960px;
+    }
+    #Cooperation .section2_inner{
+        width: 95%;
+    }
+    #Cooperation .content .ele_wrap{
+        height: auto;
+    }
+    #Cooperation .content .ele_left{
+        width: 100%;
+        
+    }
+    #Cooperation .content .ele_right{
+        width: auto;
+        padding-right:12px;
+        height: auto;
+        float:none;
+    }
+    #Cooperation .content .ele_left .ele{
+        padding-right: 0;
+        padding-bottom: 84px; 
+        position: relative;
+        
+    }
+    #Cooperation .content .ele_left .readMore{
+        bottom: 17px;
+    }
+    #loT  .nav{
+        width: 960px;
+    }
+    #loT .section2_inner{
+        width: 960px;
+    }
+    #loT .content .eleinner{
+        padding-left:25px;
+    }
+    #loT .content .eleinnerLeft{
+        padding-right:10px;
+    }
+    #loT .content .eleinnerRight {
+       padding-left: 10px;
+    }
+    #loT .content .ele{
+        height: 487px;
+    }
+    #loT .section1 .contentinner{
+        width: 960px;
+    }
+    #loT .section1 .font {
+       padding-bottom: 69px;
+        margin-top: -8px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    #app  .section2 .nav{
+        width: 960px;
+    }
+    #solution .section2 .nav{
+        width: 960px;
+    }
+    #solution  .section2_inner{
+        width: 960px;
+    }
+    #solution  .section3_inner{
+        width: 960px;
+    }
+    #solution  .section4_inner{
+        width: 960px;
+    }
+    #solution .section5_inner{
+        width: 960px;
+    }
+    #solution .section1 .font {
+        position: absolute;
+        top: 52%;
+        right: 13%;
+    }
+    #solution .section1 .font h1{
+        font-size: 38px;
+    }
+    #distri_detail .content{
+        width: 960px;
+    }
+    #mf_detail .content{
+        width: 960px;
+    }
+    #loT_detail .content{
+        width: 960px;
+    }
+    #distributor  .nav{
+        width: 960px;
+    }
+    #distributor .section2_inner{
+        width: 960px;
+    }
+    #distributor .content .eleinnerLeft{
+        padding-right: 10px;
+    }
+    #distributor .content .eleinnerRight {
+        padding-left: 10px;
+    }
+    #distributor .content .eleinner {
+        padding-left: 25px;
+    }
+    #oversea  .nav{
+        width: 960px;
+    }
+    #oversea .section2_inner .timeYea{
+        width: 960px;
+    }
+    #oversea .section1 .contentinner{
+        width: 960px;
+    }
+    #oversea .section1 .font {
+       padding-bottom: 69px;
+        margin-top: -8px;
+    }
+    #distribution .section2_inner{
+        width: 960px;
+    }
+    #distribution .section2_inner .content{
+        width: 960px;
+    }
+    #UserMD .section2_inner{
+        width: 960px;
+    }
+    #UserMD .section2_inner .content{
+        width: 960px;
+    }
+    #LightingControl .section2_inner{
+        width: 960px;
+    }
+    #LightingControl .section2_inner .content{
+        width: 960px;
+    }
+    #ContactUs_ser .section2_inner{
+        width: 960px;
+    }
+    #ContactUs_ser .nav{
+        width: 960px;
+    }
+    #productdetail .section1 .lunbo_wrap{
+        width: 960px;
+    }
+    #productdetail  .nav{
+        width: 960px;
+    }
+    #productdetail .section2_inner{
+        width: 960px;
+    }
+    #productdetail_special .cont_wrap img{
+        /*max-width: 95%;*/
+    }
+    #productlist  .nav{
+        width: 960px;
+    }
+    #productlist .section2_inner{
+        width: 960px;
+    }
+    #product_classification  .nav{
+        width: 960px;
+    }
+    #product_classification .section2_inner{
+        width: 960px;
+    }
+    #MediaInfo  .nav{
+        width: 960px;
+    }
+    #MediaInfo .section2_inner{
+        width: 960px;
+    }
+    #distribution .section1 .contentinner{
+        width: 960px;
+    }
+    #distribution .section1 .font {
+       padding-bottom: 69px;
+        margin-top: -8px;
+    }
+    #distributor .section1 .contentinner{
+        width: 960px;
+    }
+    #distributor .section1 .font {
+       padding-bottom: 69px;
+        margin-top: -8px;
+    }
+    #Cooperation .section1 .contentinner{
+        width: 960px;
+    }
+    #Cooperation .section1 .font {
+       padding-bottom: 69px;
+        margin-top: -8px;
+    }
+    #UserMD .section1 .font h1{
+       font-size: 38px;
+    }
+    #UserMD .section1 .font .threeInner{
+        padding-top: 49px;
+    }
+    #UserMD .section1 .font .threeCont .three{
+        padding-right: 48px; 
+    }
+    #Videos .section1 .font h1{
+       font-size: 38px;
+    }
+    #Videos .section1 .font .threeInner{
+        padding-top: 49px;
+    }
+    #Videos .section1 .font .threeCont .three{
+        padding-right: 48px; 
+    }
+    
+    #ContactUs_ser .section1 .font h1{
+       font-size: 38px;
+    }
+    #ContactUs_ser .section1 .font .threeInner{
+        padding-top: 49px;
+    }
+    #ContactUs_ser .section1 .font .threeCont .three{
+        padding-right: 48px; 
+    }
+}
+@media screen and (max-width:1169px){
+    .head .head-nav li {
+        padding: 0 16px;
+    }
+}
+
+@media screen and (max-width:1020px){
+    .mf_detail_video .video_wrap{
+        width: 528px;
+    }
+        
+    .mf_detail_video .playVideo{
+        height: 384px;
+    }
+    .mf_detail_video .playVideo .shadow .btn{
+        width: 51px;
+    }
+    #searchPage .content_wrap{
+        width: 800px;
+    }
+}
+
+
+@media screen and (max-width:1049px)
+{
+    .head .head-con{
+        border:none;
+    }
+    .head .company{
+        display: none;
+    }
+    #grid {
+        position: fixed;
+        width: 330px;
+        top: 0px;
+        right: 0px;
+        height: 100%;
+        display: block;
+        z-index: 100;
+        background: #fff;
+        -webkit-transform: translateX(330px);
+        -moz-transform: translateX(330px);
+        -ms-transform: translateX(330px);
+        transform: translateX(330px);
+        -webkit-transition: -webkit-transform 500ms cubic-bezier(0.77,0,0.175,1);
+        -moz-transition: -moz-transform 500ms cubic-bezier(0.77,0,0.175,1);
+        -ms-transition: -ms-transform 500ms cubic-bezier(0.77,0,0.175,1);
+        transition: transform 500ms cubic-bezier(0.77,0,0.175,1);
+    }
+    body.sideopen #grid{
+        -webkit-transform: translateX(0px);
+        -moz-transform: translateX(0px);
+        -ms-transform: translateX(0px);
+        transform: translateX(0px);
+    }
+    .sideopen #page{
+        -webkit-transform: translateX(-330px);
+        -moz-transform: translateX(-330px);
+        -ms-transform: translateX(-330px);
+        transform: translateX(-330px);
+    }
+    
+    #page{
+            -webkit-transition: -webkit-transform 500ms cubic-bezier(0.77,0,0.175,1);
+            -moz-transition: -moz-transform 500ms cubic-bezier(0.77,0,0.175,1);
+            -ms-transition: -ms-transform 500ms cubic-bezier(0.77,0,0.175,1);
+            transition: transform 500ms cubic-bezier(0.77,0,0.175,1);
+    }
+    #grid .nav{
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 330px;
+        overflow: hidden;
+        padding-top: 20px;
+    }
+    #grid .nav .search{
+        position: relative;
+        padding-left: 20px;
+        height:50px;
+    }
+    #grid .nav .search .company{
+        position: absolute;
+        right: 57px;
+        top: 7px;
+        font-size: 18px;
+    }
+    #grid .nav .search .company a:hover{
+        color:#7fbe25;
+    }
+    #grid .nav .search .inputW{
+        border: none;
+        display: inline-block;
+        /* background: url(../images/seach.png) no-repeat; */
+        width: 177px;
+        height: 30px;
+        outline-style: none;
+        color: #000;
+        text-indent: 19px;
+        border: 1px solid #ccc;
+        border-radius: 15px;
+        background: none;
+        font-size: 18px;
+    }
+    #grid .nav .search .inputBtn{
+        font-size: 0;
+        border: none;
+        display: inline-block;
+        background:url(../images/seach2.png) no-repeat center center;
+        width: 37px;
+        height: 30px;
+        outline-style: none;
+        cursor: pointer;
+        position: absolute;
+        top: 0px;
+        right: 129px;
+        border-left: 1px solid #ccc;
+    }
+    #grid .nav li{
+        width: 100%;
+        text-indent: 40px;
+    }
+    
+    #grid  .mobileIcon a {
+        text-decoration: none;
+        color: #333;
+        /*display: block;*/
+        line-height: 60px;
+        font-size: 18px;
+    }
+    #grid  .mobileIcon li.active a{
+        color: #7fbe25;
+    }
+    #grid  .mobileIcon  li.menu-level-2 {
+        background: url(../images/rightsideico.png) 20px 27px no-repeat;
+        border-bottom: 1px solid #dedede;
+    }
+    #grid  .mobileIcon  li.menu-level-2 ul.hidNav {
+        width: 90%;
+        padding-left: 10%;
+        display: none;
+    }
+    #grid  .mobileIcon  li.menu-level-2 ul.hidNav li {
+        background: url(../images/sidenav_bg2.png) 5px center no-repeat;
+    }
+
+
+    
+    .head .head-nav .nav{
+        display: none;
+    }
+    .nav-toggle {
+        display: block;
+        right: 15px;
+        top: 30px;
+        width: 60px;
+        height: 60px;
+        z-index: 6;
+        position: absolute;
+        cursor: pointer;
+        -webkit-transition-duration: 0.66s;
+        transition-duration: 0.66s;
+        -webkit-transition-timing-function: swing;
+        transition-timing-function: swing;
+        
+    }
+    .nav-toggle .icon_wrap{
+        position: relative;
+        width:100%;
+        height:100%;
+    }
+    .nav-toggle .icon {
+        width: 30px;
+        height: 4px;
+        background-color: #7fbe25;
+        border-radius: 2px;
+        position: absolute;
+        top: 28px;
+        left: 15px;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        transiting-timing-function: swing;
+    }
+    
+    
+   .nav-toggle .icon:before, .nav-toggle .icon:after {
+        width: 30px;
+        height: 4px;
+        background-color: #7fbe25;
+        border-radius: 2px;
+        content: "";
+        position: absolute;
+        left: 0;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-timing-function: swing;
+        transition-timing-function: swing;
+    }
+    .nav-toggle .icon:before, .nav-toggle .icon:after {
+        width: 30px;
+        height: 4px;
+        background-color: #7fbe25;
+        border-radius: 2px;
+        content: "";
+        position: absolute;
+        left: 0;
+        -webkit-transition-duration: 0.5s;
+        transition-duration: 0.5s;
+        -webkit-transition-timing-function: swing;
+        transition-timing-function: swing;
+    }
+    .nav-toggle .icon:before {
+        top: -9px;
+    }
+    .nav-toggle .icon:after {
+        top: 9px;
+    }
+    
+    
+    body.sideopen .nav-toggle .icon {
+        width: 0;
+    }
+    body.sideopen .nav-toggle .icon:before {
+        -webkit-transform: translateY(9px) rotate(45deg);
+        -ms-transform: translateY(9px) rotate(45deg);
+        transform: translateY(9px) rotate(45deg);
+    }
+    body.sideopen .nav-toggle .icon:after {
+        -webkit-transform: translateY(-9px) rotate(-45deg);
+        -ms-transform: translateY(-9px) rotate(-45deg);
+        transform: translateY(-9px) rotate(-45deg);
+    }
+    
+    
+}
+
+@media screen and (max-width: 960px) {
+    #CompanyIntroduction .section1 .font h1 {
+        padding-top: 6%;
+        line-height: 40px;
+    }
+    #ContactUs .section1 .font h1{
+        padding-top: 6%;
+        line-height: 40px;
+    }
+    #product_classification .controls .jp-time{
+        display: none;
+    }
+    #distributor .content .eleinner .readMore{
+        left: 0;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group3 input {
+         margin-left: 30%;
+    }
+    #ContactUs_ser .section2_inner .content  .form_wrap .group3 #yw0{
+        left: 53%;
+    }
+    #ContactUs_ser .section2_inner .content  .form_wrap .group3 label.text5{
+        left: 79%;
+    }
+    #ContactUs_ser .nav{
+        width:95%;
+    }
+    .head .head-con {
+        width: 95%;
+    }
+    #app .section2 .nav {
+        width: 880px;
+    }
+    #app .sec_inner2 {
+        width: 95%;
+    }
+    #app .sec_inner2 .main_left .ele  p{
+        line-height: 22px;
+    }
+    #app .sec_inner2 .main_left .ele {
+        padding-bottom: 18px;
+    }
+    #app .sec_inner2 .main_left .eleinner {
+        padding: 21px 12px 60px 51px;
+    }
+    #app .sec_inner2 .main_left .eleinner .line {
+        top: 75px;
+        left: 88px;
+    }
+    #app .inner3 {
+        width: 95%;
+    }
+    #app .sec_inner4 .content_wrap {
+        width: 95%;
+    }
+    #app .sec_inner4 .mian_right .font_wrap {
+        padding-left: 31px;
+    }
+    #app .sec_inner4 .pagination { 
+        top: 28%;
+    }
+    #app .section5 .imgele .Icon {
+       width:119px;
+        top: 38%;
+    }
+    #app .sec_inner2 .main_right{
+        padding-top: 154px;
+    }
+    #app .sec_inner6 .content_wrap p{
+        width: 95%;
+    }
+    #app .sec_inner6 .content_wrap{
+        width: 95%;
+    }
+    #app .sec_inner7 .content_wrap{
+        width:95%;
+    }
+    #app .section8  .content{
+        width: 95%;
+    }
+    #app .section8  .content .cont_right .p{
+        width: auto;
+    }
+    #app .section8  .content .cont_right .btn{
+        position: relative;
+    }
+    #app .section8  .content .cont_right .btnToa{
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+    #app .section8  .content .cont_right .btn .btnRig{
+        margin-left: auto;
+    }
+    #app .section8  .content .cont_right .btnToa.btnLef{
+        bottom: 30px;
+    }
+    #app .section8  .content .cont_right .btnToa.btnRig{
+            bottom: -72px;
+    }
+    #app .section1 .contex h2{
+        font-size: 28px;
+    }
+    #app .section1 .contex .p1 {
+        padding-top: 24px;
+        font-size: 14px;
+    }
+   
+    #app .section1 .contex .p{
+        font-size: 17px;
+        line-height: 46px;
+    }
+    #app .section1 .contex .down {
+        width: 150px;
+        height: 37px;
+        border-radius: 18px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+    
+    
+    #Videos .section2_inner{
+        width: 95%;
+    }
+    #Videos  .section2_inner .content  .video_wrap{
+        max-width: 100%;
+    }
+    #Videos .section1 .font{
+        top: 31%;
+    }
+    #Videos .section1 .font h1{
+        font-size: 34px;
+    }
+    #Videos .section1 .font .threeInner{
+        padding-top: 41px;
+    }
+   
+    
+    #CompanyIntroduction .section2_inner{
+        width: 95%;
+    }
+    #CompanyIntroduction .section2_inner .content  .pOrImg{
+        width: 100%;
+    }
+    #CompanyIntroduction .section3_inner{
+        width:95%;
+    }
+    #CompanyIntroduction .section3_inner #issues li img{
+        width: 640px;
+    }
+    #CompanyIntroduction .section4_inner{
+        width: 95%;
+    }
+     #ContactUs .section2_inner{
+        width:95%;
+    }
+    #ContactUs .section2_inner .content  .pOrImg img{
+        width: 80%;
+    }
+    #ContactUs .section3_inner{
+        width: 95%;
+    }
+    #ContactUs .section4_inner{
+        width:95%;
+        
+    }
+    #ContactUs .section4_inner .content  .pOrImg{
+        width: 100%;
+    }
+    #ContactUs .section4_inner .pOrImg .pi{
+        width: 50%;
+    }
+    #Cooperation  .nav{
+        width: 95%;
+    }
+    #loT  .nav{
+        width: 95%;
+    }
+    #loT .section2_inner{
+        width: 95%;
+    }
+    #loT .content .eleinner{
+        padding-left: 0;
+    }
+    #loT .content .eleinnerLeft{
+        padding-right: 10px;
+    }
+    
+    #loT .content .eleinnerRight {
+        padding-left: 10px;
+    }
+    #loT .section1 .contentinner{
+        width: 95%;
+    }
+    #loT .section1 .font p{
+        width: 258px;
+    }
+    #loT .section1 .font {
+        padding-bottom: 41px;
+    }
+
+    #app  .section2 .nav{
+        width: 96%;
+    }
+    #app .sec_inner4  .font_wrap p{
+        width: auto;
+    }
+    #solution .section2 .nav{
+        width: 95%;
+    }
+    #solution  .section2_inner{
+        width: 95%;
+    }
+    #solution  .section3_inner{
+        width: 95%;
+    }
+    #solution  .section4_inner{
+        width: 95%;
+    }
+    #solution .section5_inner{
+        width: 95%;
+    }
+    #solution .section1 .font h1 {
+        font-size: 33px;
+        padding-top: 10%;
+    }
+    #distri_detail .content{
+        width:95%;
+    }
+    
+    #mf_detail .content{
+        width:95%;
+    }
+    #loT_detail .content{
+        width:95%;
+    }
+    
+    #distributor  .nav{
+        width: 95%;
+    }
+    #distributor .section2_inner{
+        width: 95%;
+    }
+    #distributor .content .eleinner{
+        padding-left: 0;
+    }
+    #oversea  .nav{
+        width:95%;
+    }
+    #oversea .section2_inner .timeYea{
+       width: 95%; 
+    }
+    #oversea .section1 .contentinner{
+        width: 95%;
+    }
+    #oversea .section1 .font p{
+        width: 258px;
+    }
+    #oversea .section1 .font {
+        padding-bottom: 69px;
+    }
+    #distribution .section2_inner{
+        width:95%;
+    }
+    #distribution .section2_inner .content{
+        width: 95%;
+    }
+    #UserMD .section2_inner{
+        width: 95%;
+    }
+    #UserMD .section2_inner .content{
+        width: 95%;
+    }
+    #UserMD .section1 .font{
+        top: 31%;
+    }
+    #UserMD .section1 .font h1{
+        font-size: 34px;
+    }
+    #UserMD .section1 .font .threeInner{
+        padding-top: 41px;
+    }
+    #LightingControl .section2_inner{
+        width: 95%;
+    }
+    #LightingControl .section2_inner .content{
+        width: 95%;
+    }
+    #ContactUs_ser .section2_inner{
+        width: 95%;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group input {
+        margin-left: 30%;
+        width: 60%;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group select {
+        margin-left: 30%;
+        width: 60%;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group1 textarea {
+        margin-left: 15%;
+        width: 60%;
+    }
+    #ContactUs_ser .section2_inner .content .contact_way .left {
+        width: 95%;
+        padding-left: 2%;
+    }
+    #ContactUs_ser .section2_inner .content .contact_way .right {
+        width: 95%;
+        padding-left: 2%;
+        padding-top: 20px;
+    }
+    #ContactUs_ser .section1 .font{
+        top: 31%;
+    }
+    #ContactUs_ser .section1 .font h1{
+        font-size: 34px;
+    }
+    #ContactUs_ser .section1 .font .threeInner{
+        padding-top: 41px;
+    }
+    #productdetail .section1 .lunbo_wrap{
+        width: 95%;
+    }
+    #productdetail .section1 #slider{
+        width: 80%;
+    }
+    #productdetail .section1 #slider li img{
+      
+    }
+    #productdetail  .nav{
+        width: 95%;
+    }
+    #productdetail .section2_inner{
+        width: 95%;
+    }
+    #productlist  .nav{
+        width: 95%;
+    }
+    #productlist .section2_inner{
+        width: 95%;
+    }
+    #productlist .list{
+        width: 50%;
+    }
+    #product_classification  .nav{
+        width: 95%;
+    }
+    #product_classification .section2_inner{
+        width: 95%;
+    }
+    #product_classification .section2_inner .pro{
+        width: 100%;
+    }
+    #product_classification .section2_inner .pro.odd{
+        padding-right: 0;
+    }
+    #MediaInfo  .nav{
+        width: 95%;
+    }
+    #MediaInfo .section2_inner{
+        width: 95%;
+    }
+    #distribution .section1 .contentinner{
+        width: 95%;
+    }
+    #distribution .section1 .font p{
+        width: 258px;
+    }
+    #distribution .section1 .font {
+        padding-bottom: 69px;
+    }
+    #distributor .section1 .contentinner{
+        width: 95%;
+    }
+    #distributor .section1 .font p{
+        width: 258px;
+    }
+    #distributor .section1 .font {
+        padding-bottom: 69px;
+    }
+    #Cooperation .section1 .contentinner{
+        width: 95%;
+    }
+    #Cooperation .section1 .font p{
+        width: 258px;
+    }
+    #Cooperation .section1 .font {
+        padding-bottom: 69px;
+    }
+    
+    #searchPage .content_wrap{
+        width: 95%;
+    }
+    
+    
+    
+    
+}
+
+
+
+@media screen and (max-width: 920px){
+    #distribution .section1 .font p{
+        height: 70px;
+        overflow: hidden;
+    }
+    #Cooperation .section1 .font p{
+        height: 70px;
+        overflow: hidden;
+    }
+    #oversea .section1 .font p{
+        height: 70px;
+        overflow: hidden;
+    }
+    #oversea .section1 .font .readMore {
+        bottom: 46px;
+        right: -202px;
+            left: auto;
+    }
+    #Cooperation .section1 .font .readMore {
+        bottom: 46px;
+        right: -202px;
+            left: auto;
+    }
+    #distributor .section1 .font .readMore {
+        bottom: 46px;
+        right: -202px;
+            left: auto;
+    }
+    #distribution .section1 .font .readMore {
+        bottom: 46px;
+        right: -202px;
+            left: auto;
+    }
+    
+    
+}
+
+@media screen and (max-width: 640px){
+    
+    .home .section2 .section1-con.pc{
+        display: none;
+    }
+    .home .section2 .section1-con.mobile{
+        display: block;
+    }
+    .d_employeeimg .poput_close{
+        right: -7px;
+         top: -29px;
+    }
+    #certificate .certificate_inner .close{
+        top: -56px;
+        right: -56px;
+    }
+    #LightingControl .contentlist .font h3 {
+        padding-left: 9px;
+
+    }
+    #LightingControl .contentlist .font a {
+        left: 10px;
+    }
+    #productdetail .section1 .paginationWrap{
+        right: 15px;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group3 input {
+        margin-left: 34%;
+    }
+    #ContactUs_ser .section2_inner .content  .form_wrap .group3 #yw0{
+        left: 67%;
+    }
+    #ContactUs_ser .section2_inner .content  .form_wrap .group3 label.text5{
+        left: 102%;
+    }
+    #searchPage .content_wrap .inputBox{
+        width: 487px;
+    }
+    #searchPage .content_wrap .inputBox .input{
+        width: 443px;
+    }
+    html{
+        font-size: 14px;
+    }
+    .head .head-con{
+        width: 95%;
+    }
+     #CompanyIntroduction .section3_inner #issues li img{
+        width: 580px;
+    }
+    #distribution .inner_sec3 .eles{
+        width:170px;
+    }
+   
+    
+    
+    
+    
+    
+    .home .section3 .content_wrap {
+        width: 95%;
+    }
+    .index-section{
+        left:32px;
+    }
+    .home .section3 .content_wrap .font{
+        width:100%;
+    }
+    .home .section3 .content_wrap .img{
+        width:100%;
+    }
+    .home .section3 .content_wrap .font_wrap{
+        padding-left: 0;
+    }
+    .home .section4 .content_wrap .font{
+        width: 100%;
+    }
+    .home .section4 .content_wrap{
+        width: 95%;
+    }
+    .home .section4 .content_wrap .img{
+        width:100%;
+    }
+    .home .section4 .content_wrap .font_wrap{
+        padding-left: 0px;
+    }
+    .home .section4 .content_wrap .img img {
+        right:-5%;
+       height:100%;
+       width: auto;
+    }
+    .home .section5 .content_wrap{
+        width: 95%;
+        height: auto;
+        padding-bottom: 86px;
+    }
+    .home .section5 .content_wrap .content .pro{
+        width: 100%;
+        padding-bottom: 39px;
+    }
+    .home .section5 .content_wrap .content .pro.left{
+        padding-left: 0;
+    }
+    .home .section6 .content_wrap{
+        width: 95%;
+    }
+    .home .section6 .content_wrap .font_wrap{
+        padding-left: 0;
+    }
+    .home .section6 .content_wrap .list_wrap{
+        padding-right: 0;
+    }
+    #footer .contentmune{
+        display: none;
+    }
+    #footer  .copyrightInner{
+        width: 95%;
+        height: auto;
+    }
+    #footer  .copyrightInner .left{
+        float:none;
+        text-align: center;
+    }
+    #footer  .copyrightInner .right{
+        text-align: center;
+        float:none;
+    }
+    
+    #Videos  .section2_inner .content .playVideo .shadow .btn{
+        width: 49px;
+    }
+   #Videos .section1 .font h1{
+        font-size: 28px;
+        padding-top: 8%;
+
+    }
+    #Videos .section1 .font .threeInner{
+        padding-top: 24px;
+    }
+     
+
+    
+    #CompanyIntroduction .section4_inner .pOrImg .pi{
+        width: 100%;
+    }  
+    #ContactUs .section3_inner .pOrImg .pi{
+        width: 50%;
+        padding-bottom: 20px;
+    }
+    #ContactUs .section4_inner .pOrImg .pi{
+        width:100%;
+    }
+    #ContactUs .section4_inner .pOrImg .piWrap {
+        
+         padding-right: 0; 
+    }
+    #loT .content .ele{
+        height: 462px;
+    }
+    #loT .section1 .font .readMore {
+        right: -202px;
+        bottom:55px;
+        left: auto;
+    }
+    #loT .section1 .font {
+        margin-top: -20px;
+    }
+    #app .section3{
+        height: 564px;
+    }
+    #app .section5 .h3{
+        top: 21px;
+    }
+    #app .section5 .imgele .Icon{
+        top: 51%;
+    }
+    #app .section1 .contex .p1{
+        padding-top: 0px;
+    }
+    #solution .section4_inner .content  .roomPic{
+        width: 100%;
+    }
+    #solution .section4_inner .content .roomPic .room1 {
+        left: 150px;
+    }
+    #solution .section4_inner .content .roomPic .room2 {
+        right: 60px;
+    }
+    #solution .section4_inner .content .roomPic .room3 {
+        top: 103px;
+    }
+    #solution .section4_inner .content .roomPic .room5 {
+        bottom: 90px;
+        left: 61px;
+    }
+    #solution .section4_inner .content .roomPic .room6 {
+        bottom: 43px;
+        right: 97px;
+    }
+    #solution .section4_inner .content .roomPic .room4 {
+        top: 189px;
+        right: 16px;
+    }
+    #solution .section5_inner  .lunbo_Wrap2{
+        padding-left: 135px;
+    }
+    #solution .section1 .font h1 {
+        font-size: 28px;
+        padding-top: 9%;
+    }
+    #oversea .content .prev{
+        width: 22px;
+        top: 41%;
+    }
+    #oversea .content .next{
+        width: 22px;
+        top:41%;
+    }
+    #oversea .section1 .font .readMore {
+        right: -202px;
+        bottom:45px;
+        left: auto;
+    }
+    #oversea .section1 .font {
+        margin-top: -20px;
+    }
+    
+    #UserMD .contentlist .img img {
+        padding-top: 37%;
+        max-width: 139%;
+    }
+    #UserMD .section1 .font h1{
+        font-size: 28px;
+        padding-top: 8%;
+
+    }
+    #UserMD .section1 .font .threeInner{
+        padding-top: 24px;
+    }
+    #LightingControl .contentlist .img img {
+        padding-top: 37%;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group input {
+        margin-left: 35%;
+        width: 60%;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group select {
+        margin-left: 35%;
+        width: 60%;
+    }
+    #ContactUs_ser .section2_inner .content .form_wrap .group1 textarea {
+        margin-left: 17%;
+    }
+    #ContactUs_ser .section1 .font h1{
+        font-size: 28px;
+        padding-top: 8%;
+
+    }
+    #ContactUs_ser .section1 .font .threeInner{
+        padding-top: 24px;
+    }
+    #productdetail .section1 .lunbo_wrap .bannerinner{
+        width:73%;
+    }
+    #productdetail .section1 .lunbo_wrap .bannerinner .caroufredsel_wrapper{
+        padding-bottom: 57px;
+    }
+    #productdetail .section1 #pagination{
+        top: 56%;
+    }
+    #distribution .section1 .contentWrap{
+        top: 29%;
+    }
+    #distribution .section1 .font .readMore {
+        right: -202px;
+        bottom:43px;
+        left: auto;
+    }
+    #distribution .section1 .font {
+        margin-top: -20px;
+    }
+    #distributor .section1 .contentWrap{
+        top: 29%;
+    }
+    #distributor .section1 .font .readMore {
+        right: -202px;
+        bottom:55px;
+        left: auto;
+    }
+    #distributor .section1 .font {
+        margin-top: -20px;
+    }
+    #Cooperation .section1 .contentWrap{
+        top: 29%;
+    }
+    #Cooperation .section1 .font .readMore {
+        right: -202px;
+        bottom:41px;
+        left: auto;
+    }
+    #Cooperation .section1 .font {
+        margin-top: -20px;
+    }
+    #solution .section3_inner .content  .picinner{
+        height: 132px;
+    }
+    
+    
+    
+/*mobile 调整*/   
+    
+    
+    
+    
+    .home .section3 .content_wrap .font_wrap .title .p1{
+        font-size: 40px;
+    }
+    .home .section3 .content_wrap .font_wrap .title .p2{
+        text-indent:121px;
+        font-size: 24px;
+        line-height: 31px;
+    }
+    .home .section3 .content_wrap .font_wrap .ReadMore {
+        
+        margin-left: 35%;
+    }
+    .home .section3 .content_wrap .font_wrap .p3 {
+        font-size: 18px;
+        padding: 14px 0px;
+    }
+    .home .section3 .content_wrap .font_wrap h3{
+        font-size: 24px;
+    }
+    .home .section3 .content_wrap .font_wrap .p4 {
+        font-size: 18px;
+    }
+    .home .section5 .content_wrap .title h1{
+        font-size: 40px;
+    }
+    .home .section5 .content_wrap .title h1 span{
+        font-size: 24px;
+    }
+    .home .section5 .content_wrap .title p{
+        font-size: 18px;
+        line-height: 54px;
+    }
+    .home .section5 .content_wrap .content .pro .tit {
+        font-size: 24px;
+        line-height: 44px;
+    }
+    .home .section5 .content_wrap .content .pro .deta{
+        font-size: 18px;
+    }
+    #grid  .mobileIcon a{
+        font-size: 24px;
+    }
+    #grid  .mobileIcon .hidNav a{
+        font-size: 20px;
+    }
+    .home .section4 .content_wrap .font_wrap .title .p1{
+        font-size: 40px;
+    }
+    .home .section4 .content_wrap .font_wrap .title .p2 {
+      
+        text-indent: 126px;
+        line-height: 30px;
+    }
+    .home .section4 .content_wrap .font_wrap .title .p2{
+        font-size: 24px;
+    }
+    .home .section4 .content_wrap .font_wrap .p3{
+        font-size: 18px;
+    }
+    .home .section4 .content_wrap .font_wrap .p4{
+        font-size: 18px;
+    }
+    .home .section4 .content_wrap .font_wrap .img03 .pic01 img {
+        width: 120px;
+    }
+    .home .section4 .content_wrap .font_wrap .img03 .pic01{
+        padding-right: 25px;
+    }
+    .home .section4 .content_wrap .font_wrap .img03 .pic01 p{
+        font-size: 18px;
+    }
+    
+    .home .section6 .content_wrap .font_wrap .title .p1{
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .home .section6 .content_wrap .font_wrap .p3{
+        font-size: 18px;
+    }
+    .home .section6 .content_wrap .font_wrap .p4{
+        font-size: 18px;
+    }
+    .home .section6 .content_wrap .font{
+        width: 58%;
+    }
+    .home .section6 .content_wrap .list{
+        width: 40px;
+    }
+    #CompanyIntroduction .section2_inner .nav a{
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section2_inner .nav span{
+        font-size: 18px;
+    }
+     .nav a{
+        font-size: 18px;
+    }
+    .nav span{
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section2_inner .content h1{
+        font-size: 40px;
+    }
+    #CompanyIntroduction .section2_inner .content h1 span{
+        font-size: 24px;
+    }
+    #CompanyIntroduction .section2_inner .content p {
+        
+        line-height: 36px;
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section2_inner .content .pOrImg .p {
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #CompanyIntroduction .section2_inner .content .img_wrap .ele h3{
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section3_inner .content h1{
+        font-size: 40px;
+    }
+    #CompanyIntroduction .section3_inner .content h1 span{
+        font-size: 24px;
+    }
+    #CompanyIntroduction .section3_inner .content p{
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section4_inner .content h1{
+        font-size: 40px;
+    }
+    #CompanyIntroduction .section4_inner .content h1 span{
+        font-size: 24px;
+    }
+    #CompanyIntroduction .section4_inner .content p{
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section4_inner .pOrImg p{
+        font-size: 18px;
+    }
+    #CompanyIntroduction .section4_inner .readMor a{
+        font-size: 18px;
+    }
+    #MediaInfo .section2_inner .content .ty{
+        font-size: 18px;
+    }
+    #MediaInfo .section2_inner .content .newsY h2{
+        font-size: 20px;
+    }
+    #MediaInfo .section2_inner .content .newsY .time{
+        font-size: 16px;
+    }
+    #MediaInfo .section2_inner .content .newsY .text{
+        font-size: 18px;
+    }
+    #MediaInfo .section2_inner .content .newsYear .fenye .zhangwenbang li a{
+        font-size: 18px;
+    }
+    
+    #MediaInfo .section2_inner .content .newsYear{
+        width: 100%;
+    }
+    #MediaInfo .section2_inner .content .newsY h2{
+        line-height: 40px;
+        padding: 16px 0;
+    }
+    #MediaInfo .section2_inner .content .importantNew{
+        width: 100%;
+    }
+    #MediaInfo .section2_inner .content .importantNew_inner {
+         padding-left:0; 
+        padding-top: 69px;
+    }
+    #MediaInfo .section2_inner .content .imporN_ele{
+        width: 49%;
+        margin-right: 1%;
+        float:left;
+    }
+    #MediaInfo .section2_inner .content .imporN_ele p {
+        font-size: 18px;
+    }
+    #ContactUs .section2_inner .content h1{
+        font-size: 40px;
+    }
+    #ContactUs .section2_inner .content h1 span{
+        font-size: 24px;
+    }
+    #ContactUs .section2_inner .content p {
+        font-size: 18px;
+        line-height: 45px;
+    }
+    #ContactUs .section3_inner .content h1{
+        font-size: 40px;
+    }
+    #ContactUs .section3_inner .content p{
+        font-size: 18px;
+        line-height: 45px;
+    }
+    #ContactUs .section3_inner .pOrImg .pH{
+        font-size: 24px;
+        line-height: 35px;
+    }
+    #ContactUs .section3_inner .pOrImg .pA {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    #ContactUs .section3_inner .pOrImg .pi{
+        height: 305px;
+    }
+    #ContactUs .section4_inner .content h1{
+        font-size: 40px;
+    }
+    #ContactUs .section4_inner .content h1 span{
+        font-size: 24px;
+    }
+    #ContactUs .section4_inner .content p{
+        font-size: 18px;
+        line-break: 45px;
+    }
+    #ContactUs .section4_inner .pOrImg .pH{
+        font-size: 24px;
+        line-height: 47px;
+    }
+    #ContactUs .section4_inner .pOrImg .p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #productlist .section2_inner .content h1{
+        font-size: 40px;
+    }
+    #productlist .section2_inner .content h1 span{
+        font-size: 24px;
+    }
+    #productlist .section2_inner .content p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #productlist .list h3 {
+        font-size: 24px;
+        line-height: 47px;
+    }
+    #productlist .content .list_wrap .list p{
+        font-size: 18px;
+        line-height: 32px;
+    }
+    #productdetail .section1 .title h1{
+        font-size: 40px;
+    }
+    #productdetail .section1 .title h1 span{
+        font-size: 24px;
+    }
+    #productdetail .section1 .title p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #app .sec_inner2 h1{
+        font-size: 40px;
+    }
+    #app .sec_inner2 .title p {
+        font-size: 18px;
+        line-height: 45px;
+    }
+    #app .sec_inner2 .main_left{
+        padding-top: 38px;
+    }
+    #app .sec_inner2 .main_right {
+        padding-top: 118px;
+    }
+    #app .sec_inner2 .main_left .eleinner {
+        padding: 21px 12px 60px 59px;
+    }
+    #app .sec_inner2 .main_left .ele{
+        padding-bottom: 8px;
+    }
+    #app .section3 h1{
+        font-size: 32px;
+    }
+    #app .section3 .title p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #app .inner3 .main_left .h3{
+        padding-top: 31%;
+        font-size: 20px;
+    }
+    #app .inner3 .main_left  .p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #app .sec_inner4 h1{
+        font-size: 32px;
+    }
+    #app .sec_inner4 .title p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #app .sec_inner4  .font_wrap h3{
+        font-size: 24px;
+    }
+    #app .sec_inner4  .font_wrap p{
+        font-size: 18px;
+        line-height: 24px;
+    }
+    #app .section5 .h3 h3{
+        font-size: 29px;
+        
+    }
+    #app .section5 .h3 p{
+        font-size: 18px;
+    }
+    #app .section5 .imgele .Icon p{
+        font-size: 18px;
+    }
+    #app .sec_inner6 h1{
+        font-size: 33px;
+    }
+    #app .sec_inner6 .title p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #app .sec_inner6 .content_wrap p {
+        width: 95%;
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #app .sec_inner7 h1{
+        font-size: 33px;
+    }
+    
+    #app .sec_inner7 .title p{
+        font-size: 18px;
+        line-height:36px;
+    }
+    #app .section8 .title{
+        font-size: 33px;
+    }
+    #app .section8  .content .cont_right .p{
+        font-size: 18px;
+    }
+    #app .section8  .content .cont_right .btn{
+        padding-top: 100px;
+    }
+    #loT .section1 .font h1{
+        line-height: 36px;
+    }
+    
+    #loT .section1 .font p {
+        height: 70px;
+        overflow: hidden;
+    }
+    #loT .section1 .font .readMore{
+        bottom: 28px;
+    }
+    #loT .section3  .ele .hover span{
+        font-size: 18px;
+    }
+    #loT_detail h1{
+        font-size: 24px;
+    }
+    #loT_detail .floatRight p{
+        font-size: 16px;
+    }
+    #loT_detail .content .p p{
+        font-size: 18px;
+    }
+    #loT_detail {
+        min-height: 867px;
+    }
+    #distribution .section1 .font h1{
+        line-height: 38px;
+        font-size: 31px;
+    }
+    #distribution .section1 .font p {
+        height: 70px;
+        overflow: hidden;
+    }
+    #distribution .section1 .font .readMore{
+        bottom: 46px;
+        
+    }
+    #distribution .section2 .title h1{
+        font-size: 40px;
+    }
+    #distribution .section2 .title p {
+        color: #7fbe25;
+        font-size: 18px;
+        line-height: 36px;
+    }
+    #distribution .inner_sec3 .coun{
+        font-size: 24px;
+    }
+    #Cooperation .section1 .font h1{
+        line-height: 38px;
+        font-size: 31px;
+    }
+    #Cooperation .section1 .font p{
+        height: 70px;
+        overflow: hidden;
+    }
+    #Cooperation .section1 .font .readMore{
+        bottom: 46px;
+    }
+    #Cooperation .content .ele_left h3{
+        font-size: 24px;
+    }
+    #Cooperation .content .ele_left p{
+        font-size: 18px;
+    }
+    #Cooperation .content .ele_left .readMore{
+        font-size: 18px;
+    }
+    #distributor .section1 .font h1{
+        line-height: 38px;
+        font-size: 31px;
+    }
+    #distributor .section1 .font p{
+        height: 70px;
+        overflow: hidden;
+    }
+    #distributor .section1 .font .readMore{
+        bottom: 46px;
+    }
+    #distributor .content .eleinner h3{
+        font-size: 20px;
+    }
+    #distributor .content .eleinner{
+        overflow: hidden;
+    }
+    #distributor .content .eleinner p {
+        color: #666;
+        font-size: 18px;
+        line-height: 24px;
+        height: 123px;
+        overflow: hidden;
+    }
+    #distributor .content .eleinner .readMore{
+        font-size: 18px;
+    }
+    #oversea .section1 .font h1{
+         line-height: 38px;
+         font-weight: 31px;
+    }
+    #oversea .section1 .font p{
+        height: 70px;
+        overflow: hidden;
+    }
+    #oversea .section1 .font .readMore{
+        bottom: 46px;
+    }
+    #oversea .section2_inner .timeYea .ty{
+        font-size: 18px;
+    }
+    #oversea .content .por .title p{
+        font-size: 18px;
+    }
+    .d_employeeimg{
+        width: 601px;
+        height: 437px;
+        top: 0;
+        left:0;
+        bottom:0;
+        right:0;
+        margin:auto;
+        
+    }
+    .d_employeeimg ul li{
+        width:480px;
+        height: 350px;
+    }
+    #UserMD .section2 .title h1{
+        font-size: 40px;
+    }
+    #UserMD .section2 .title h1 span{
+        font-size: 24px;
+    }
+    #UserMD .section2 .title  p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    
+    #UserMD .contentlist .font h3{
+        line-height: 21px;
+        padding-left: 16px;
+        font-size: 15px;
+    }
+    #UserMD .contentlist .font a{
+        font-size: 18px;
+        left:15px;
+    }
+    #UserMD .readMore{
+        font-size: 18px;
+    }
+    #LightingControl .contentlist .font h3{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    #LightingControl .contentlist .font a{
+        font-size: 18px;
+    }
+    #LightingControl  .contentlist .fenye .zhangwenbang li a{
+        font-size: 18px;
+    }
+    #Videos .section2_inner .content h1{
+        font-size: 40px;
+    }
+    #Videos .section2_inner .content p{
+        font-size: 22px;
+        line-height: 36px;
+    }
+    #Videos .section2_inner .content .youtube p a {
+        font-size: 24px;
+    }
+    #ContactUs_ser .section2_inner .content h1{
+        font-size: 40px;
+    }
+    #ContactUs_ser .section2_inner .content h1 span{
+        font-size: 24px;
+    }
+    #ContactUs_ser .section2_inner .content p{
+        font-size: 18px;
+        line-height: 36px;
+    }
+    
+    #Videos  .section2_inner .content  .litterVido .caseleft{
+        left: 34px;
+        top: 55px;
+    }
+    #Videos .section2_inner .content .litterVido .caseright {
+        right: 2px;
+        top: 55px;
+    }
+    #CompanyIntroduction .section1 .font h1{
+        padding-top: 6%;
+        line-height: 40px;
+    }
+    #MediaInfo .section1 .font h1{
+         padding-top: 6%;
+        line-height: 40px;
+    }
+    #ContactUs .section1 .font h1 {
+         padding-top: 6%;
+        line-height: 40px;
+    }
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
